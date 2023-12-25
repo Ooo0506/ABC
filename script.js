@@ -21,5 +21,5 @@ function changePhoto() {
     var profilePicElement = document.getElementById('profile-pic');
 
     // 換圖
-    profilePicElement.src = 'new-photo.jpg';
+    profilePicElement.src = '20231225_145053.webp';
 }
